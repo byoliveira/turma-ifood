@@ -1,0 +1,15 @@
+//clonar o repositorio
+
+git clone https://github.com/byoliveira/turma-ifood.git
+
+//baixar arquivos atualizados
+git pull
+
+//para adicionar um arquivo ou todos arquivos novos ou modificados para repositorio
+git add .
+
+// preparar o arquivo para envio e escreva uma mensagem
+git commit -m "Envio João Oliveira"
+
+//para enviar efetivamente os arquivos
+git push origin main
