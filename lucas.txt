@@ -1,3 +1,5 @@
-lucas
-25
-CE
+{
+    "nome": "lucas",
+    "idade": 25,
+    "cidade": Fortaleza
+}
