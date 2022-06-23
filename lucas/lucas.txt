@@ -1,0 +1,5 @@
+{
+    "nome": "lucas",
+    "idade": 25,
+    "cidade": Fortaleza
+}
